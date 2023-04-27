@@ -1,20 +1,36 @@
 {
     "employees": [
         {
-            "id": 1,
-            "name" : "Anas Akhtar (D33798) (130689)"
+            "id": 130689,
+            "name" : "Ahmad Kayani (D33798) (130689)",
+            "employeeId": "D33798",
+            "departmentCode": "ADI",
+            "department": "Pipe Dept.",
+            "section": "Pipe Shop Sec." 
         },
         {
-            "id": 2,
-            "name" : "Johny Wick (D33333) (133333)"
+            "id": 133333,
+            "name" : "Johny Wick (D33333) (133333)",
+            "employeeId": "D33333",
+            "departmentCode": "ADI",
+            "department": "Pipe Dept.",
+            "section": "Pipe Shop Sec." 
         },
         {
-            "id": 3,
-            "name" : "Tom Cruise (D22222) (12222)"
+            "id": 12222,
+            "name" : "Tom Cruise (D22222) (12222)",
+            "employeeId": "D22222",
+            "departmentCode": "ADI",
+            "department": "Pipe Dept.",
+            "section": "Pipe Shop Sec." 
         },
         {
-            "id": 4,
-            "name" : "Rahmat Sayani (D22223) (12244)"
+            "id": 12244,
+            "name" : "Rahmat Sayani (D22223) (12244)",
+            "employeeId": "D22223",
+            "departmentCode": "ADI",
+            "department": "Pipe Dept.",
+            "section": "Pipe Shop Sec." 
         }
     ]
 }
