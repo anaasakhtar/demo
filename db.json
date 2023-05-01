@@ -32,5 +32,8 @@
             "department": "Pipe Dept.",
             "section": "Pipe Shop Sec." 
         }
+    ],
+    "shifts":[
+        1, 2, 3
     ]
 }
